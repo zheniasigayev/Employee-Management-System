@@ -1,0 +1,18 @@
+FT,0,Zhenia,Sigayev,Male,Mississauga,20.0,50000.0
+PT,10,Howard,Don,Female,Woodlands,70.0,84.0,54.0,44.0
+FT,1,Brandon,Pham,Female,New York,100.0,10.0
+FT,111111,a,aaa,m,Ottawa,20.0,90000.0
+FT,11,Itchy,Scratchy,Male,Toronto,42.0,60000.0
+PT,12,Billy,Jones,Male,Mississauga,87.0,32.0,34.0,23.0
+PT,2,P,C,Male,Toronto,50.0,20.0,30.0,40.0
+PT,13,Liilly,Iooo,Female,Mississauga,48.0,72.0,34.0,67.0
+PT,4,Bradley,Tar,Unknown,Mississauga,30.0,30.0,40.0,52.0
+FT,14,Tony,Berkins,Female,Mississauga,46.0,7577.0
+PT,5,Grace,Yeuli,Female,Mississauga,60.0,30.0,100.0,10.0
+FT,15,Usif,Iuoo,Male,Mississauga,74.0,78623.0
+FT,5555555,Lauren,Choi,Female,Milton,100.0,1.0
+FT,6,Joe,Lui,Male,Mississauga,30.0,80000.0
+FT,16,Hilary,Lass,Female,Mississauga,98.0,47599.0
+FT,7,Mashrur,Chowdhry,Male,Chicago,90.0,60000.0
+FT,8,Bob,Schnider,Male,Mississauga,50.0,50000.0
+FT,9,Lucas,Lee,Other,Not Specified,30.0,1000.0
