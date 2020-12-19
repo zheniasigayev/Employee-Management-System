@@ -1,7 +1,6 @@
 # Employee Management System
  
-
-Foobar is a Python library for dealing with word pluralization.
+This 12th grade final project incorporates my take on a potential branded Employee Managent System
 
 ## Installation
 
