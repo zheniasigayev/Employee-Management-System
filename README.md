@@ -5,20 +5,10 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Install the text Editor [Apache NetBeans 11.2](https://netbeans.apache.org/download/nb112/nb112.html) 
 
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Ensure that the version is exactly 11.2 before use
 ```
 
 ## Contributing
