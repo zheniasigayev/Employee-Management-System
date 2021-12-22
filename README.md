@@ -1,6 +1,6 @@
 # Employee Management System
  
-This 12th grade final project incorporates my take on a potential branded Employee Managent System
+A final project for a CS course with my unique take on a potential branded Employee Managent System
 
 ## Installation
 
